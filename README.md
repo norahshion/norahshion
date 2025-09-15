@@ -6,7 +6,7 @@
 また、大学では画像センシング研究室に所属し、Pythonもちょっとかじっています。
 
 # 主なスキル
-| 項目| 説明|
+| スキル | 使用年数 |
 |---|---|
 | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) | 2年 |
 | ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)| 1年 |
@@ -15,6 +15,12 @@
 | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) | 半年 |
 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | 半年 |
 | ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) | 半年 |
+
+# 連絡先
+- メール：norahshion@gmail.com
+- X：https://x.com/Shionorah
+- YouTube：https://youtube.com/channel/UC-L3yzIczng8Bi6DFwuhQXQ?si=nZzobQE_pB8455rt
+
 
 
 ## 📊 GitHub Stats
