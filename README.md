@@ -18,7 +18,6 @@
 
 # 連絡先
 - メール：norahshion@gmail.com
-- X：https://x.com/Shionorah
 - YouTube：https://youtube.com/channel/UC-L3yzIczng8Bi6DFwuhQXQ?si=nZzobQE_pB8455rt
 
 
